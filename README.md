@@ -9,6 +9,7 @@
  ▄   ██                           
  ▀████▀
 ```                                                                                                                  
+---
 CS Engineering student focused on full-stack development, machine learning, and systems-oriented projects.
 
 ## Featured Projects
