@@ -1,17 +1,16 @@
-helloworld("printf");
+
 ---
 ```txt                                  
    ▄▄▄▄▄▄                         
   █▀ ██                         █▄
      ██                   ▀▀    ██
-     ██ ██ ██ ████▄ ▄▀▀█▄ ██ ▄████
+     ██ ██ ██ ████▄ ▄▀▀█▄ ██ ▄████  helloworld("printf");
      ██ ██ ██ ██ ██ ▄█▀██ ██ ██ ██
      ██▄▀██▀█▄██ ▀█▄▀█▄██▄██▄█▀███
  ▄   ██                           
  ▀████▀
 ```                                                                                                                  
 ---
-CS Engineering student focused on full-stack development, machine learning, and systems-oriented projects.
 
 ## Featured Projects
 - [TypeShift](https://github.com/JunaidAhamed-7777/Type.Shift) — Typing speed platform built with React
@@ -21,9 +20,3 @@ CS Engineering student focused on full-stack development, machine learning, and 
 
 ## Skills
 Python • C • C++ • Java • Assembly • Matlab • HTML5 • CSS • JavaScript • TypeScript • React.js • MySQL • PostgreSQL • Git • Embedded C
-
-## Currently Exploring
-- Backend systems
-- Real-time architectures
-- ML-integrated applications
-- App Dev
