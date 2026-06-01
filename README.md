@@ -1,33 +1,45 @@
 
 ---
 ```text
-
-$$$$$$$^^~~~~~~~~~~~~~~~~~~~~^^$$$$$$$$+------------------------------------+
-$$$$$$^     ~^  $  $$ $ $ $ I  ~^$$$$$$|-TheDobbsheadRadioActivSystemOnline-|
-$$$$$            ~ ~~ ~I          $$$$$| -SubGenii: Bob Slack, Crazy Horse- |
-$$$$'                  '  _,w$<    $$$$|      -Pinks&Glorps: General-       |
-$$$$     $$$$$$$$w___,w$$$$$$$$  $  $$$|------------------------------------|
-$$$$     $$$$$$$$$$$$$$$$$$$$$$  I  $$$|-Dobbshead-(317) 736-6439-Discordia-|
-$$$$     $$$$$$$$$$$$$$$$$$$$*$[ i  $$$|-Weekdays 9pm-4pm, Weekends 9pm-9am-|
-$$$$     $$$$$$$$$$$$$$$$$$$$[][ | ]$$$|------------------------------------|
-$$$$     ~_,,_ ~$$$$$$$~ ____~ $    $$$| -Dedicated to things free! Speech- |
-$$$$    _~ ,  ,  `$$$~  _  _`$ ]L  J$$$| -Thought, Religion, Slack, fnord?- |
-$$$$  , $$w$ww+   $$$ww``,,$w$ ][  $$$$|------------------------------------|
-$$$$,  $$$$www$$$ $$$$$$$ww$$$$$[  $$$$| -Also Known As: The Metaphysical-  |
-$$$$$_|| $$$$$$P' $$P$$$$$$$$$$$[|c$$$$|   -Workshop and AlternativLand-    |
-$$$$$$w| '$$P~  P]$$$-~, ~Y$$^'],$$$$$$|------------------------------------|
-$$$$$$$[   _        _J$$Tk     ]]$$$$$$|-uXu Distribution Site-Online Games-|
-$$$$$$$$,$ $$, c,,,,,,,y ,w$$[ ,$$$$$$$|-Online Text Library-Text File Libs-|
-$$$$$$$$$ i $w   ====--_$$$$$  $$$$$$$$|-Messages Bases From Metaphysics to-|
-$$$$$$$$$$`,P~ _ ~^^^^Y$$$$$  $$$$$$$$$|-Underground Conversations-CU/H/P/A-|
-$$$$^^=^$$^   ^' ,ww,w$$$$$ _$$$$$$$$$$|-Encryption Areas-2500+ Text Files--|
-$$$_xJ~ ~   ,    $$$$$$$P~_$$$$$$$$$$$$|-Informaton on The Net-No Ratios----|
-$$   $,   ,$$$,_____   _,J$$$$$$$$$$$$$|-Free Access-Full Access First Call-|
-$$L  `' ,$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$|-MUD OnLine-Illuminations on Request|
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$+------------------------------------+
-
-
-```                                                                                                               
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡀⣄⣂⣠⣤⣤⣤⣄⠀⣀⢀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣶⣶⣿⣷⣾⣦⣵⣽⣾⣿⣿⣿⣾⣿⣿⣿⣿⣿⣶⣬⡀⡈⠀⠀⠀They rode on
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣧⣂⠀⠀The sun past its meridian turned conversionward and the world
+⠀⠀⠀⠀⠀⢀⠀⣜⣽⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠠⣄⠀on the tablet of whose face they were no more than strays 
+⠀⠀⠀⠀⢀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⢋⠟⣯⢿⣿⣿⣿⣿⡿⢽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⡀⠀or chapters in some chronicle of the past began to recover its color.
+⠀⠀⠀⣰⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⡀⢐⠻⣝⡇⣿⣿⣿⡟⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠑⡀⠀A vast wetness overspread the playa.
+⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⡀⠀⢄⡑⢿⣾⣿⣿⣿⣿⣿⣿⣿⣧⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⢩⠀ The horses picked their way through the standing water
+⣴⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣵⣄⡀⠀⠁⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢗⢁⠀⠀and the riders sat slumped and sodden in their saddles.
+⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣶⣶⣢⣶⣼⣿⣿⣿⣯⠋⠻⠝⠉⠀⠉⠺⣿⣿⣿⣿⣿⣿⣿⣿⣿⡖⢮⠂⠀⠀⠀They crossed a limestone ridge where the rocks were
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠹⠿⠿⠹⠿⡿⠇⠀⠀⠀⠀⠀⡸⠿⠿⠉⠏⠉⢹⣿⣿⣿⣿⡇⡆⠀white as bones and they entered a basin that was dry
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢄⠄⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣼⣀⠀and white and alkaline and smelled of sulfur.
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⡟⢋⡀⢀⣤⣀⠄⡢⡤⠀⡀⡀⠀⠀⠀⠀⠀⠀⠀⢦⡂⣴⣂⣀⣄⠠⠀⢿⣿⣿⣿⣿⡤⡀⠀The sun rode down the sky and the shadows of the riders
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣡⣯⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣿⣿⡿⢿⣿⣾⣿⣿⣿⣿⣧⣃⢠⡀ lengthened across the valley floor until they reached
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡼⣿⡿⢿⣿⣿⣿⣟⣿⣿⣷⠾⠃⠈⠀⠀⠀⠀⢀⠀⠀⠠⡀⣀⠘⠘⠛⢿⡿⠛⢿⣿⣿⠿⢻⣑⣲⠟ ⠀the base of the eastern mountains where they rose up
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⡾⢏⠚⡀⠀⠉⠉⠋⠙⠋⠀⠀⠀⠀⠀⠀⠀⢠⠉⢀⣴⣶⡄⣇⣮⠁⠀⢀⠀⠀⠀⠛⠁⣀⢔⠝⠁⠀⠀the dark slopes like giant geometricians or surveyors measuring the world.
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣟⠑⠀⠀⠈⠒⠀⠐⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⢯⣦⠘⠛⠉⠚⡘⠉⠄⠀⠀⠀⠀⠀⡠⢒⣵⣿⡆⠀⠀⠀The night gave definition to their journey.
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣠⠤⡂⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠠⡒⢂⢨⢴⡄⠄⠀⣤⡪⠂⢸⣿⣿⣿⣄⠀⠀They rode under a canopy of stars that burned with
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣛⠛⠮⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⣺⢾⣿⣿⡾⠊⢀⣼⠞⠀⠀⠀⢸⣿⣿⣿⣿⣦⠀  a fierce and ancient light, a cold and indifferent clockwork
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡸⠈⠉⠁⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣲⣷⣟⢿⠋⣁⣾⣿⣿⡇⠀⠀⠀⢸⣿⣿⣿⣿⣿⡥  that turned above the vast and empty wastes of the earth.
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠬⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣿⢟⢛⡻⡋⡟⠉⠕⣉⢩⣿⣄⠀⠀⣸⣿⣿⣿⣿⣿⣧  The world through which they traveled seemed a thing unmade,
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢩⣿⣿⣿⣿⣿⣿⡿⠀⠠⠂⠀⣿⣿⣿⣿⣿⣿⣿  a raw and unfinished blueprint where the elements still warred
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠁⠀⠀⠀⠸⢠⣿⣿⣿⣿⣿⣿⣿ in the dark and the spirit of God had not yet moved upon the face of the waters.
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣒⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣼⣿⣿⣿⣿⣿⣿⣿  They moved like men destined to a common grave,
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣳⣀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿ their faces shadowed beneath the brims of their hats,
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣹⢧⢲⢦⠔⠦⢄⣄⣠⣢⠤⡢⢄⣠⣀⣠⢄⡤⣠⠠⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿ silent, austere, engulfed by a silence so profound
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⢾⣿⡟⡿⣿⡿⢯⣯⣽⣾⣷⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ that the ticking of their horses' hooves
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⡿⣿⣏⢳⡞⡵⠩⢜⢿⢟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ upon the stone sounded like the counting
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ out of their own brief and numbered days.
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣏⣿⢱⠾⣏⠏⡾⣶⠉⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣉⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠿⣷⣾⣜⡯⣝⣫⢼⢳⣳⠖⠄⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠁⠡⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⡛⠓⡘⠁⠀⠀⠉⠻⣟⣽⣣⣳⢫⣟⡎⠀⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢟⠏⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣭⠞⠌⠀⠀⠀⠀⠀⠈⠳⢷⣳⣿⣿⣎⠀⡼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡍⠁⠀ An excerpt from
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠟⣄⠠⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣾⢯⡺⡀⢽⣿⣿⣿⣿⣿⣿⣿⡿⢟⠟⠉⠁⠀⠀⠀Blood Meridian
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠏⠀⢀⠀⠈⠢⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡼⢏⣱⣿⣿⣿⣿⣿⡟⠃⠀⠀⠀⠀⠀⠀⠀Chapter IV
+⠹⠋⠽⢿⣿⣿⣿⡿⠋⠁⠄⠠⠄⠀⠀⠈⠘⠸⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⢐⢸⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀by Cormac McCarthy
+⠀⠀⠀⠀⠈⠛⡻⠃⠀⠀⠀⠀⠀⠀⠈⠒⢄⡀⠈⠠⠀⠀⠀⠀⠀⠀⠀⠀⠀⡘⠀⢸⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⡠⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠅⠀⢨⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⡠⠐⢊⡁⠀⠀⠀⠀⡀⠀⠂⠀⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠁⠀⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```                                                  
 ---
 
 ## Featured Projects
