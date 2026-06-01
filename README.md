@@ -2,13 +2,13 @@
 ---
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡀⣄⣂⣠⣤⣤⣤⣄⠀⣀⢀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣶⣶⣿⣷⣾⣦⣵⣽⣾⣿⣿⣿⣾⣿⣿⣿⣿⣿⣶⣬⡀⡈⠀⠀⠀They rode on. The sun past its meridian turned conversionward
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣧⣂⠀⠀ and the world on the tablet of whose face they were no more
-⠀⠀⠀⠀⠀⢀⠀⣜⣽⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠠⣄⠀ than strays or chapters in some chronicle of the past began to
-⠀⠀⠀⠀⢀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⢋⠟⣯⢿⣿⣿⣿⣿⡿⢽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⡀⠀recover its color. A vast wetness overspread the playa.
-⠀⠀⠀⣰⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⡀⢐⠻⣝⡇⣿⣿⣿⡟⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠑⡀⠀The horses picked their way through the standing water
-⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⡀⠀⢄⡑⢿⣾⣿⣿⣿⣿⣿⣿⣿⣧⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⢩⠀ and the riders sat slumped and sodden in their saddles.
-⣴⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣵⣄⡀⠀⠁⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢗⢁⠀⠀They crossed a limestone ridge where the rocks were
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣶⣶⣿⣷⣾⣦⣵⣽⣾⣿⣿⣿⣾⣿⣿⣿⣿⣿⣶⣬⡀⡈⠀They rode on. The sun past its meridian turned conversionward
+⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣧⣂⠀and the world on the tablet of whose face they were no more
+⠀⠀⠀⠀⠀⢀⠀⣜⣽⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠠⣄than strays or chapters in some chronicle of the past began to
+⠀⠀⠀⠀⢀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⢋⠟⣯⢿⣿⣿⣿⣿⡿⢽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⡀recover its color. A vast wetness overspread the playa.
+⠀⠀⠀⣰⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⡀⢐⠻⣝⡇⣿⣿⣿⡟⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠑⡀The horses picked their way through the standing water
+⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⡀⠀⢄⡑⢿⣾⣿⣿⣿⣿⣿⣿⣿⣧⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⢩⠀and the riders sat slumped and sodden in their saddles.
+⣴⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣵⣄⡀⠀⠁⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢗⢁ They crossed a limestone ridge where the rocks were
 ⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣶⣶⣢⣶⣼⣿⣿⣿⣯⠋⠻⠝⠉⠀⠉⠺⣿⣿⣿⣿⣿⣿⣿⣿⣿⡖⢮⠂ white as bones and they entered a basin that was dry⠀⠀⠀
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠹⠿⠿⠹⠿⡿⠇⠀⠀⠀⠀⠀⡸⠿⠿⠉⠏⠉⢹⣿⣿⣿⣿⡇⡆ and white and alkaline and smelled of sulfur.⠀
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢄⠄⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣼⣀⠀The sun rode down the sky and the shadows of the riders
