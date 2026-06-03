@@ -1,7 +1,7 @@
 
 ---
 ```text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡀⣄⣂⣠⣤⣤⣤⣄⠀⣀⢀⠀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡀⣄⣂⣠⣤⣤⣤⣄⠀⣀⢀⠀⣀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣶⣶⣿⣷⣾⣦⣵⣽⣾⣿⣿⣿⣾⣿⣿⣿⣿⣿⣶⣬⡀⡈⠀They rode on. The sun past its meridian turned conversionward
 ⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣧⣂⠀and the world on the tablet of whose face they were no more
 ⠀⠀⠀⠀⠀⢀⠀⣜⣽⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠠⣄than strays or chapters in some chronicle of the past began to
@@ -27,10 +27,10 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣳⣀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿ waters. They moved like men destined to 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣹⢧⢲⢦⠔⠦⢄⣄⣠⣢⠤⡢⢄⣠⣀⣠⢄⡤⣠⠠⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿ a common grave, their faces shadowed beneath 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⢾⣿⡟⡿⣿⡿⢯⣯⣽⣾⣷⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ the brims of their hats, silent, austere, engulfed
-Blood Meridian⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⡿⣿⣏⢳⡞⡵⠩⢜⢿⢟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ by a silence so profound that the ticking of 
-by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ their horses' hooves upon the stone sounded like 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣏⣿⢱⠾⣏⠏⡾⣶⠉⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣉⠀the counting out of their own brief and numbered days.⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-```                                                  
+Blood Meridian⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⡿⣿⣏⢳⡞⡵⠩⢜⢿⢟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ by a silence so profound that the ticking of
+by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ their horses' hooves upon the stone sounded like
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣏⣿⢱⠾⣏⠏⡾⣶⠉⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣉⠀the counting out of their own brief and numbered days.
+```
 ---
 
 ## Featured Projects
