@@ -1,5 +1,6 @@
 
 ---
+[Nothing ends poetically. Things end, and we turn it into poetry.](https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw?si=20f137bf7df447f5)
 ```text
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡀⣄⣂⣠⣤⣤⣤⣄⠀⣀⢀⠀⣀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣶⣶⣿⣷⣾⣦⣵⣽⣾⣿⣿⣿⣾⣿⣿⣿⣿⣿⣶⣬⡀⡈⠀They rode on. The sun past its meridian turned conversionward
