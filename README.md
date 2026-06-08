@@ -36,7 +36,7 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 ## Featured Projects
 - [TypeShift](https://typeshift-alpha2.vercel.app) — Typing speed platform built with React
 - [Emotion Detector + Music Recommender](https://github.com/JunaidAhamed-7777/Emotion_detector_music_rcmdr) — Real-time emotion-based music recommendation using MediaPipe and TensorFlow
-- [Binance Futures Trading Bot](https://github.com/JunaidAhamed-7777/trading_bot/tree/main) — Python CLI trading bot that safely validate, execute, and log market and limit orders on the Binance USDT 
+- [Binance Futures Trading Bot](https://github.com/JunaidAhamed-7777/trading_bot/tree/main) — Python CLI trading bot that safely validate, execute, log market & limit orders on Binance USDT 
 - [Crystal UI for Vivaldi](https://github.com/JunaidAhamed-7777/CrystalUI_Vivaldi) — Frosted glass UI customization for Vivaldi browser (Inspired from iOS, partly)
 - [AirQuality Monitor using ESP32](https://github.com/JunaidAhamed-7777/AirQuality-Humidity-PPM-Monitor-using-ESP32) — Embedded environmental monitoring system with sensor calibration and alerting
 Futures Testnet.
