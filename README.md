@@ -15,15 +15,15 @@
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⡟⢋⡀⢀⣤⣀⠄⡢⡤⠀⡀⡀⠀⠀⠀⠀⠀⠀⠀⢦⡂⣴⣂⣀⣄⠠⠀⢿⣿⣿⣿⣿⡤⡀⠀lengthened across the valley floor until they reached
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣡⣯⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣿⣿⡿⢿⣿⣾⣿⣿⣿⣿⣧⣃⢠⡀ the base of the eastern mountains where they rose up
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡼⣿⡿⢿⣿⣿⣿⣟⣿⣿⣷⠾⠃⠈⠀⠀⠀⠀⢀⠀⠀⠠⡀⣀⠘⠘⠛⢿⡿⠛⢿⣿⣿⠿⢻⣑⣲⠟ the dark slopes like giant geometricians or ⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⡾⢏⠚⡀⠀⠉⠉⠋⠙⠋⠀⠀⠀⠀⠀⠀⠀⢠⠉⢀⣴⣶⡄⣇⣮⠁⠀⢀⠀⠀⠀⠛⠁⣀⢔⠝⠁⠀⠀surveyors measuring the world. The night 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣟⠑⠀⠀⠈⠒⠀⠐⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⢯⣦⠘⠛⠉⠚⡘⠉⠄⠀⠀⠀⠀⠀⡠⢒⣵⣿⡆⠀⠀gave definition to their journey. They rode under 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣠⠤⡂⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠠⡒⢂⢨⢴⡄⠄⠀⣤⡪⠂⢸⣿⣿⣿⣄⠀⠀a canopy of stars that burned with a fierce and
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣛⠛⠮⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⣺⢾⣿⣿⡾⠊⢀⣼⠞⠀⠀⠀⢸⣿⣿⣿⣿⣦⠀ ancient light, a cold and indifferent clockwork
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡸⠈⠉⠁⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣲⣷⣟⢿⠋⣁⣾⣿⣿⡇⠀⠀⠀⢸⣿⣿⣿⣿⣿⡥  that turned above the vast and empty wastes of the earth.
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠬⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣿⢟⢛⡻⡋⡟⠉⠕⣉⢩⣿⣄⠀⠀⣸⣿⣿⣿⣿⣿⣧  The world through which they traveled seemed 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢩⣿⣿⣿⣿⣿⣿⡿⠀⠠⠂⠀⣿⣿⣿⣿⣿⣿⣿  a thing unmade, a raw and unfinished blueprint where
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠁⠀⠀⠀⠸⢠⣿⣿⣿⣿⣿⣿⣿  the elements still warred in the dark and the
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣒⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣼⣿⣿⣿⣿⣿⣿⣿   spirit of God had not yet moved upon the face of the 
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⡾⢏⠚⡀⠀⠉⠉⠋⠙⠋⠀⠀⠀⠀⠀⠀⠀⢠⠉⢀⣴⣶⡄⣇⣮⠁⠀⢀⠀⠀⠀⠛⠁⣀⢔⠝⠁⠀surveyors measuring the world. The night 
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣟⠑⠀⠀⠈⠒⠀⠐⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⢯⣦⠘⠛⠉⠚⡘⠉⠄⠀⠀⠀⠀⠀⡠⢒⣵⣿⡆⠀gave definition to their journey. They rode under 
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣠⠤⡂⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠠⡒⢂⢨⢴⡄⠄⠀⣤⡪⠂⢸⣿⣿⣿⣄⠀a canopy of stars that burned with a fierce and
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣛⠛⠮⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⣺⢾⣿⣿⡾⠊⢀⣼⠞⠀⠀⠀⢸⣿⣿⣿⣿⣦ ancient light, a cold and indifferent clockwork
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡸⠈⠉⠁⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣲⣷⣟⢿⠋⣁⣾⣿⣿⡇⠀⠀⠀⢸⣿⣿⣿⣿⣿⡥ that turned above the vast and empty wastes of the earth.
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠬⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣿⢟⢛⡻⡋⡟⠉⠕⣉⢩⣿⣄⠀⠀⣸⣿⣿⣿⣿⣿⣧ The world through which they traveled seemed 
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢩⣿⣿⣿⣿⣿⣿⡿⠀⠠⠂⠀⣿⣿⣿⣿⣿⣿⣿ a thing unmade, a raw and unfinished blueprint where
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠁⠀⠀⠀⠸⢠⣿⣿⣿⣿⣿⣿⣿ the elements still warred in the dark and the
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣒⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣼⣿⣿⣿⣿⣿⣿⣿ spirit of God had not yet moved upon the face of the 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣳⣀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿ waters. They moved like men destined to 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣹⢧⢲⢦⠔⠦⢄⣄⣠⣢⠤⡢⢄⣠⣀⣠⢄⡤⣠⠠⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿ a common grave, their faces shadowed beneath 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⢾⣿⡟⡿⣿⡿⢯⣯⣽⣾⣷⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ the brims of their hats, silent, austere, engulfed
