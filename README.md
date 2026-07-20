@@ -34,6 +34,7 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 ---
 
 ## Featured Projects
+> Source Code of "Heimdall" and "TypeShift" is pinned below. 
 - [Heimdall](https://heimdall-productivity-companion-1091650404271.asia-southeast1.run.app) — AI-Powered productivity companion
 - [TypeShift](https://typeshift-alpha2.vercel.app) — Typing speed platform built with React
 - [Emotion Detector](https://github.com/JunaidAhamed-7777/Emotion_detector_music_rcmdr) — Real-time emotion-based music recommendation using MediaPipe and TensorFlow
