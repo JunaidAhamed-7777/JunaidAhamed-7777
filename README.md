@@ -37,7 +37,8 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 - [Heimdall](https://heimdall-productivity-companion-1091650404271.asia-southeast1.run.app) — AI-Powered productivity companion
 - [TypeShift](https://typeshift-alpha2.vercel.app) — Typing speed platform built with React
 - [Emotion Detector](https://github.com/JunaidAhamed-7777/Emotion_detector_music_rcmdr) — Real-time emotion-based music recommendation using MediaPipe and TensorFlow
-- [Binance Futures Trading Bot](https://github.com/JunaidAhamed-7777/trading_bot/tree/main) — Python CLI trading bot that safely validate, execute, log market & limit orders on Binance USDT 
+- [Binance Futures Trading Bot](https://github.com/JunaidAhamed-7777/trading_bot/tree/main) — Python CLI trading bot that safely validate, execute, log market & limit orders on Binance USDT
+- [Blackwall](https://github.com/JunaidAhamed-7777/Blackwall) — A platform that streamlines the process where requests can be posted, reviewed and approved.
 - [Crystal UI (Vivaldi)](https://github.com/JunaidAhamed-7777/CrystalUI_Vivaldi) — Frosted glass UI customization for Vivaldi browser (Inspired from iOS, partly)
 - [AirQuality Monitor (ESP32)](https://github.com/JunaidAhamed-7777/AirQuality-Humidity-PPM-Monitor-using-ESP32) — Embedded environmental monitoring system with sensor calibration and alerting.
 ---
