@@ -51,5 +51,5 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 
 [Nothing ends poetically. Things end, and we turn it into poetry.](https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw?si=20f137bf7df447f5)
 <!-- https://github.com/JunaidAhamed-7777 
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JunaidAhamed-7777)]([https://github.com/pranesh-2005](https://github.com/JunaidAhamed-7777)/github-readme-stats-fast)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JunaidAhamed-7777)] ([https://github.com/pranesh-2005](https://github.com/JunaidAhamed-7777)/github-readme-stats-fast)
 --->
