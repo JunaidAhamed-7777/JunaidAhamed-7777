@@ -46,8 +46,10 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-05122A?style=flat&logo=google) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![OAuth](https://img.shields.io/badge/-OAuth-05122A?style=flat&logo=googleauthenticator) ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger) ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis) ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=prisma) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) ![YAML](https://img.shields.io/badge/-YAML-05122A?style=flat&logo=yaml) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Assembly](https://img.shields.io/badge/-Assembly-05122A?style=flat&logo=llvm) ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=octave) ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)
 
+<!---
 <img width="1920" height="1080" alt="frame_0119" src="https://github.com/user-attachments/assets/1627e206-22b7-4262-9eb7-ca9dbd07d462" />
-
+--->
+![Ascii](frame_0119.png)
 
 [Nothing ends poetically. Things end, and we turn it into poetry.](https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw?si=20f137bf7df447f5)
 <!-- https://github.com/JunaidAhamed-7777 
