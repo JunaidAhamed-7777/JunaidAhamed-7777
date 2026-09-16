@@ -1,0 +1,17 @@
+{
+  "name": "Profile README preview",
+  "install": "bash .cursor/install.sh",
+  "terminals": [
+    {
+      "name": "readme-preview",
+      "command": "PATH=\"$HOME/.local/bin:$HOME/.npm-global/bin:$PATH\" grip README.md 0.0.0.0:6419 --norefresh",
+      "description": "GitHub-style live preview of README.md at http://localhost:6419 (renders every section plus the embedded frame_0119.png image)."
+    }
+  ],
+  "ports": [
+    {
+      "name": "readme-preview",
+      "port": 6419
+    }
+  ]
+}
