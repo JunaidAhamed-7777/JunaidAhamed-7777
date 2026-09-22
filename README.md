@@ -35,7 +35,7 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 ## Open Source Contributions
 - [Arbor](https://github.com/Anandb71/arbor)
   - [PR#189 fix(graph): exclude vendor assets and compute hotspot centrality](https://github.com/Anandb71/arbor/commit/636db0faa9a4d34a08e0d0c464aebb98464df74e)
-
+---
 ## Featured Projects
 > Source Code of "Heimdall" and "TypeShift" is pinned below. 
 - [TypeShift](https://typeshift-alpha2.vercel.app) — Typing speed platform built with React
