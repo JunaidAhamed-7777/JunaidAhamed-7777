@@ -34,7 +34,8 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 ---
 ## Open Source Contributions
 - [Arbor](https://github.com/Anandb71/arbor)
-  - [PR#189 fix(graph): exclude vendor assets and compute hotspot centrality](https://github.com/Anandb71/arbor/commit/636db0faa9a4d34a08e0d0c464aebb98464df74e)
+  - [PR#189 fix(graph): exclude vendor assets and compute hotspot centrality](https://github.com/Anandb71/arbor/pull/189)
+  - [PR#190 fix(graph): resolve PageRank closed-cycle rank sink and balance score distribution](https://github.com/Anandb71/arbor/pull/190)
 ---
 ## Featured Projects
 > Source Code of "Heimdall" and "TypeShift" is pinned below. 
