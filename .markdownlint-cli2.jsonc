@@ -1,0 +1,15 @@
+{
+  // Lint config tuned for a GitHub profile README that intentionally uses
+  // ASCII art, long shields.io badge lines, and inline HTML.
+  "config": {
+    "MD013": false, // line-length: ASCII art and badge rows are intentionally long
+    "MD033": false, // inline HTML: shields.io badges and <img>/<!-- --> blocks
+    "MD041": false, // first-line-heading: profile README opens with a link, not a heading
+    "MD003": false, // heading-style: mixed setext/atx headings are fine here
+    "MD022": false, // blanks-around-headings: compact profile layout
+    "MD031": false, // blanks-around-fences: ASCII-art fence sits flush with prose
+    "MD032": false  // blanks-around-lists: compact project list
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules"]
+}
