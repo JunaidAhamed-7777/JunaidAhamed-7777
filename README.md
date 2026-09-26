@@ -36,6 +36,7 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 - [Arbor](https://github.com/Anandb71/arbor)
   - [PR#189 fix(graph): exclude vendor assets and compute hotspot centrality](https://github.com/Anandb71/arbor/pull/189)
   - [PR#190 fix(graph): resolve PageRank closed-cycle rank sink and balance score distribution](https://github.com/Anandb71/arbor/pull/190)
+  - [PR#191 fix(graph): emit class inheritance edges and reach inherited methods](https://github.com/Anandb71/arbor/pull/191)
 ---
 ## Featured Projects
 > Source Code of "Heimdall" and "TypeShift" is pinned below. 
