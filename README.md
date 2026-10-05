@@ -37,7 +37,6 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
   - [PR#189 fix(graph): exclude vendor assets and compute hotspot centrality](https://github.com/Anandb71/arbor/pull/189)
   - [PR#190 fix(graph): resolve PageRank closed-cycle rank sink and balance score distribution](https://github.com/Anandb71/arbor/pull/190)
   - [PR#191 fix(graph): emit class inheritance edges and reach inherited methods](https://github.com/Anandb71/arbor/pull/191)
----
 ## Featured Projects
 > Source Code of "Heimdall" and "TypeShift" is pinned below. 
 - [TypeShift](https://typeshift-alpha2.vercel.app) — Typing speed platform built with React
@@ -47,6 +46,8 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 - [Blackwall](https://github.com/JunaidAhamed-7777/Blackwall) — A platform that streamlines the process where requests can be posted, reviewed and approved.
 - [Crystal UI (Vivaldi)](https://github.com/JunaidAhamed-7777/CrystalUI_Vivaldi) — Frosted glass UI customization for Vivaldi browser (Inspired from iOS, partly)
 - [AirQuality Monitor (ESP32)](https://github.com/JunaidAhamed-7777/AirQuality-Humidity-PPM-Monitor-using-ESP32) — Embedded environmental monitoring system with sensor calibration and alerting.
+## Research
+- [Ranking Pages for Content Refresh: Leakage Audit and Grouped Validation](https://junaidahamed-7777.github.io/flyrank-machine-learning/)
 ---
 ## Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
