@@ -52,6 +52,7 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 ## Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 <!---
+AAAAAAAAAAAAAAAAAAA FUUUCKKKK
 <img width="1920" height="1080" alt="frame_0119" src="https://github.com/user-attachments/assets/1627e206-22b7-4262-9eb7-ca9dbd07d462" />
 --->
 ![Ascii](frame_0119.png)
