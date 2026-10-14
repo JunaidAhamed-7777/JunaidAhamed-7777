@@ -33,6 +33,8 @@ by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾�
 ```
 ---
 ## Open Source Contributions
+- [pydantic](https://github.com/pydantic)
+  - [Expand home paths when checking TOML table headers](https://github.com/pydantic/pydantic-settings/pull/1034)
 - [Arbor](https://github.com/Anandb71/arbor)
   - [PR#189 fix(graph): exclude vendor assets and compute hotspot centrality](https://github.com/Anandb71/arbor/pull/189)
   - [PR#190 fix(graph): resolve PageRank closed-cycle rank sink and balance score distribution](https://github.com/Anandb71/arbor/pull/190)
