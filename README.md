@@ -1,65 +1,124 @@
-[Know More About Me](https://junaidahamed.runs-on.dev)
----
-```text
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⡀⣄⣂⣠⣤⣤⣤⣄⠀⣀⢀⠀⣀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣶⣶⣿⣷⣾⣦⣵⣽⣾⣿⣿⣿⣾⣿⣿⣿⣿⣿⣶⣬⡀⡈⠀They rode on. The sun past its meridian turned conversionward
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣰⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣧⣂⠀and the world on the tablet of whose face they were no more
-⠀⠀⠀⠀⠀⢀⠀⣜⣽⣿⣿⣿⣿⣿⣿⣿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠠⣄than strays or chapters in some chronicle of the past began to
-⠀⠀⠀⠀⢀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⢋⠟⣯⢿⣿⣿⣿⣿⡿⢽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⡀recover its color. A vast wetness overspread the playa.
-⠀⠀⠀⣰⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⡀⢐⠻⣝⡇⣿⣿⣿⡟⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠑⡀The horses picked their way through the standing water
-⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣏⡀⠀⢄⡑⢿⣾⣿⣿⣿⣿⣿⣿⣿⣧⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡀⢩⠀and the riders sat slumped and sodden in their saddles.
-⣴⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣵⣄⡀⠀⠁⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢗⢁ They crossed a limestone ridge where the rocks were
-⣵⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣾⣶⣶⣢⣶⣼⣿⣿⣿⣯⠋⠻⠝⠉⠀⠉⠺⣿⣿⣿⣿⣿⣿⣿⣿⣿⡖⢮⠂ white as bones and they entered a basin that was dry⠀⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠹⠿⠿⠹⠿⡿⠇⠀⠀⠀⠀⠀⡸⠿⠿⠉⠏⠉⢹⣿⣿⣿⣿⡇⡆ and white and alkaline and smelled of sulfur.⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢄⠄⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣼⣀⠀The sun rode down the sky and the shadows of the riders
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⡟⢋⡀⢀⣤⣀⠄⡢⡤⠀⡀⡀⠀⠀⠀⠀⠀⠀⠀⢦⡂⣴⣂⣀⣄⠠⠀⢿⣿⣿⣿⣿⡤⡀⠀lengthened across the valley floor until they reached
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣡⣯⣾⣿⣿⣿⣿⣿⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠘⠻⣿⣿⡿⢿⣿⣾⣿⣿⣿⣿⣧⣃⢠⡀ the base of the eastern mountains where they rose up
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡼⣿⡿⢿⣿⣿⣿⣟⣿⣿⣷⠾⠃⠈⠀⠀⠀⠀⢀⠀⠀⠠⡀⣀⠘⠘⠛⢿⡿⠛⢿⣿⣿⠿⢻⣑⣲⠟ the dark slopes like giant geometricians or ⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢃⡾⢏⠚⡀⠀⠉⠉⠋⠙⠋⠀⠀⠀⠀⠀⠀⠀⢠⠉⢀⣴⣶⡄⣇⣮⠁⠀⢀⠀⠀⠀⠛⠁⣀⢔⠝⠁⠀surveyors measuring the world. The night 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣟⠑⠀⠀⠈⠒⠀⠐⠀⠀⠈⠀⠀⠀⠀⠀⠀⠀⢯⣦⠘⠛⠉⠚⡘⠉⠄⠀⠀⠀⠀⠀⡠⢒⣵⣿⡆⠀gave definition to their journey. They rode under 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⣀⣀⣠⠤⡂⠈⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠁⠠⡒⢂⢨⢴⡄⠄⠀⣤⡪⠂⢸⣿⣿⣿⣄⠀a canopy of stars that burned with a fierce and
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣛⠛⠮⡤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡠⣺⢾⣿⣿⡾⠊⢀⣼⠞⠀⠀⠀⢸⣿⣿⣿⣿⣦ ancient light, a cold and indifferent clockwork
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⡸⠈⠉⠁⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣲⣷⣟⢿⠋⣁⣾⣿⣿⡇⠀⠀⠀⢸⣿⣿⣿⣿⣿⡥ that turned above the vast and empty wastes of the earth.
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠬⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣿⢟⢛⡻⡋⡟⠉⠕⣉⢩⣿⣄⠀⠀⣸⣿⣿⣿⣿⣿⣧ The world through which they traveled seemed 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢩⣿⣿⣿⣿⣿⣿⡿⠀⠠⠂⠀⣿⣿⣿⣿⣿⣿⣿ a thing unmade, a raw and unfinished blueprint where
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠉⠉⠉⠁⠀⠀⠀⠸⢠⣿⣿⣿⣿⣿⣿⣿ the elements still warred in the dark and the
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣒⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⣼⣿⣿⣿⣿⣿⣿⣿ spirit of God had not yet moved upon the face of the 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣳⣀⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿ waters. They moved like men destined to 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣹⢧⢲⢦⠔⠦⢄⣄⣠⣢⠤⡢⢄⣠⣀⣠⢄⡤⣠⠠⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿ a common grave, their faces shadowed beneath 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣾⣿⣿⣿⢾⣿⡟⡿⣿⡿⢯⣯⣽⣾⣷⣷⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ the brims of their hats, silent, austere, engulfed
-Blood Meridian⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡷⡿⣿⣏⢳⡞⡵⠩⢜⢿⢟⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ by a silence so profound that the ticking of
-by Cormac McCarthy⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣿⣝⢦⢛⡖⢴⢫⠒⣁⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ their horses' hooves upon the stone sounded like
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣏⣿⢱⠾⣏⠏⡾⣶⠉⠀⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣉⠀the counting out of their own brief and numbered days.
-```
----
-## Open Source Contributions
-- [pydantic](https://github.com/pydantic)
-  - [Expand home paths when checking TOML table headers](https://github.com/pydantic/pydantic-settings/pull/1034)
-- [Arbor](https://github.com/Anandb71/arbor)
-  - [PR#189 fix(graph): exclude vendor assets and compute hotspot centrality](https://github.com/Anandb71/arbor/pull/189)
-  - [PR#190 fix(graph): resolve PageRank closed-cycle rank sink and balance score distribution](https://github.com/Anandb71/arbor/pull/190)
-  - [PR#191 fix(graph): emit class inheritance edges and reach inherited methods](https://github.com/Anandb71/arbor/pull/191)
-## Featured Projects
-> Source Code of "Heimdall" and "TypeShift" is pinned below. 
-- [TypeShift](https://typeshift-alpha2.vercel.app) — Typing speed platform built with React
-- [Heimdall](https://heimdall-productivity-companion-1091650404271.asia-southeast1.run.app) — AI-Powered productivity companion
-- [Emotion Detector](https://github.com/JunaidAhamed-7777/Emotion_detector_music_rcmdr) — Real-time emotion-based music recommendation using MediaPipe and TensorFlow
-- [Binance Futures Trading Bot](https://github.com/JunaidAhamed-7777/trading_bot/tree/main) — Python CLI trading bot that safely validate, execute, log market & limit orders on Binance USDT
-- [Blackwall](https://github.com/JunaidAhamed-7777/Blackwall) — A platform that streamlines the process where requests can be posted, reviewed and approved.
-- [Crystal UI (Vivaldi)](https://github.com/JunaidAhamed-7777/CrystalUI_Vivaldi) — Frosted glass UI customization for Vivaldi browser (Inspired from iOS, partly)
-- [AirQuality Monitor (ESP32)](https://github.com/JunaidAhamed-7777/AirQuality-Humidity-PPM-Monitor-using-ESP32) — Embedded environmental monitoring system with sensor calibration and alerting.
-## Research
-- [Ranking Pages for Content Refresh: Leakage Audit and Grouped Validation](https://junaidahamed-7777.github.io/flyrank-machine-learning/)
----
-## Stack
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk) ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
-<!---
-AAAAAAAAAAAAAAAAAAA FUUUCKKKK
-<img width="1920" height="1080" alt="frame_0119" src="https://github.com/user-attachments/assets/1627e206-22b7-4262-9eb7-ca9dbd07d462" />
---->
-![Ascii](frame_0119.png)
+<!-- Artwork: scripts/build_assets.py. The masthead uses my original ASCII image. -->
 
-[Nothing ends poetically. Things end, and we turn it into poetry.](https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw?si=20f137bf7df447f5)
-<!-- https://github.com/JunaidAhamed-7777 
-[![GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JunaidAhamed-7777)] ([https://github.com/pranesh-2005](https://github.com/JunaidAhamed-7777)/github-readme-stats-fast)
---->
+<a href="https://junaidahamed.runs-on.dev">
+  <picture>
+    <source media="(max-width: 650px)" srcset="assets/hero-mobile.svg">
+    <img src="assets/hero.svg" width="100%" alt="Junaid Ahamed, India.">
+  </picture>
+</a>
+
+<a href="https://junaidahamed.runs-on.dev">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 650px)" srcset="assets/portfolio-mobile-static.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/portfolio-static.svg">
+    <source media="(max-width: 650px)" srcset="assets/portfolio-mobile.svg">
+    <img src="assets/portfolio.svg" width="100%" alt="Visit my portfolio — junaidahamed.runs-on.dev">
+  </picture>
+</a>
+
+<p>
+  <a href="#selected-work">Selected work</a>
+  &nbsp; / &nbsp;
+  <a href="#open-source">Open source</a>
+  &nbsp; / &nbsp;
+  <a href="#research">Research</a>
+</p>
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JunaidAhamed-7777/DrainTracer">
+        <picture>
+          <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-draintracer-static.svg">
+          <img src="assets/project-draintracer.svg" width="100%" alt="DrainTracer: layered process-memory plates with a moving leak trace.">
+        </picture>
+      </a>
+      <h3>DrainTracer</h3>
+      <p>Windows process monitoring and resource-leak detection.</p>
+      <p><sub>Python · psutil · Rich</sub></p>
+      <a href="https://github.com/JunaidAhamed-7777/DrainTracer">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JunaidAhamed-7777/Emotion_detector_music_rcmdr">
+        <img src="assets/project-emotion-detector.svg" width="100%" alt="Emotion Detector: a faceted face and facial landmarks connected to a vinyl record.">
+      </a>
+      <h3>Emotion Detector</h3>
+      <p>Webcam emotion detection that suggests music.</p>
+      <p><sub>Python · MediaPipe · Keras</sub></p>
+      <a href="https://github.com/JunaidAhamed-7777/Emotion_detector_music_rcmdr">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JunaidAhamed-7777/Heimdall">
+        <img src="assets/project-heimdall.svg" width="100%" alt="Heimdall: layered planner pages, habit markers, and a task tile.">
+      </a>
+      <h3>Heimdall</h3>
+      <p>Tasks, habits, and Google Workspace in one app.</p>
+      <p><sub>TypeScript · Firebase</sub></p>
+      <a href="https://github.com/JunaidAhamed-7777/Heimdall">Code</a>
+      &nbsp; · &nbsp;
+      <a href="https://heimdall-productivity-companion-1091650404271.asia-southeast1.run.app">Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/JunaidAhamed-7777/Type.Shift">
+        <picture>
+          <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-typeshift-static.svg">
+          <img src="assets/project-typeshift.svg" width="100%" alt="TypeShift typing speed checker: a WPM scale and animated keyboard keycaps.">
+        </picture>
+      </a>
+      <h3>TypeShift</h3>
+      <p>A typing speed checker with passages from books, science, and code.</p>
+      <p><sub>React · JavaScript</sub></p>
+      <a href="https://github.com/JunaidAhamed-7777/Type.Shift">Code</a>
+      &nbsp; · &nbsp;
+      <a href="https://typeshiftt.vercel.app">Demo</a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary>Other projects</summary>
+
+- **[Blackwall](https://github.com/JunaidAhamed-7777/Blackwall)** — Cryptographic approval workflows for infrastructure changes.
+- **[Crystal UI](https://github.com/JunaidAhamed-7777/CrystalUI_Vivaldi)** — A frosted-glass CSS theme for Vivaldi.
+- **[AirQuality Monitor](https://github.com/JunaidAhamed-7777/AirQuality-Humidity-PPM-Monitor-using-ESP32)** — ESP32 environmental monitoring with real-time alerts.
+- **[Futures Trading CLI](https://github.com/JunaidAhamed-7777/trading_bot)** — Order validation, execution, and logging for the Binance USDT Futures Testnet.
+
+</details>
+
+## Open source
+
+Merged pull requests.
+
+**[pydantic-settings](https://github.com/pydantic/pydantic-settings)**
+
+- [#1034](https://github.com/pydantic/pydantic-settings/pull/1034) — Expand home paths when checking TOML table headers.
+
+**[Arbor](https://github.com/Anandb71/arbor)**
+
+- [#189](https://github.com/Anandb71/arbor/pull/189) — Exclude vendor assets and compute hotspot centrality.
+- [#190](https://github.com/Anandb71/arbor/pull/190) — Fix the PageRank closed-cycle rank sink and balance score distribution.
+- [#191](https://github.com/Anandb71/arbor/pull/191) — Emit class inheritance edges and reach inherited methods.
+
+## Research
+
+**[Ranking Pages for Content Refresh ↗︎](https://junaidahamed-7777.github.io/flyrank-machine-learning/)**<br>Leakage audit and grouped validation for content-refresh ranking.
+
+## Stack
+
+**Languages** &nbsp; Python · Java · C · C++ · JavaScript · TypeScript<br>**Web** &nbsp; React · Node.js<br>**Data** &nbsp; PostgreSQL · MySQL · Redis
+
+---
+
+<a href="https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw">
+  <img src="assets/spotify.svg" width="252" height="44" alt="My Spotify playlist ↗︎">
+</a>
+
+<p>
+  <a href="mailto:junuhammad2@gmail.com">
+    <img src="assets/gmail.svg" width="360" alt="Gmail — email junuhammad2@gmail.com">
+  </a>
+</p>

@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="44" viewBox="0 0 252 44" role="img" aria-labelledby="title desc">
+<title id="title">My Spotify playlist</title><desc id="desc">My Spotify playlist</desc>
+<rect x="0" y="0" width="252" height="44" rx="0" fill="none" stroke="none" stroke-width="1"/><style>text{fill:#576050}.external{stroke:#576050}@media(prefers-color-scheme:dark){text{fill:#a4a7a0}.external{stroke:#a4a7a0}}</style><circle cx="20" cy="22" r="14" fill="#1db954" stroke="none" stroke-width="1"/><path d="M11 18q9-5 19 1M12 23q8-4 16 1M14 28q6-3 12 0" fill="none" stroke="#101210" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /><text x="46" y="28" font-size="18" fill="#a4a7a0" font-family="Arial,Helvetica,sans-serif" letter-spacing="0">My Spotify playlist</text><path d="M227 28 237 18M227 18h10v10" fill="none" stroke="#a4a7a0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="external"/>
+</svg>
