@@ -117,11 +117,11 @@ Merged pull requests.
 ---
 
 <a href="https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw">
-  <img src="assets/spotify.svg" width="252" height="44" alt="My Spotify playlist ↗︎">
+  <img src="assets/spotify.svg" width="252" height="44" alt="↗︎">
 </a>
 
 <p>
   <a href="mailto:junuhammad2@gmail.com">
-    <img src="assets/gmail.svg" width="360" alt="Gmail — email junuhammad2@gmail.com">
+    <img src="assets/gmail.svg" width="360" alt="">
   </a>
 </p>
