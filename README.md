@@ -97,6 +97,9 @@ Merged pull requests.
 
 - [#1034](https://github.com/pydantic/pydantic-settings/pull/1034) — Expand home paths when checking TOML table headers.
 
+**[lilconfig](https://github.com/antonk52/lilconfig)**
+- [#66](https://github.com/antonk52/lilconfig/pull/66) — Fix: strip UTF-8 BOM before parsing JSON configs.
+
 **[Arbor](https://github.com/Anandb71/arbor)**
 
 - [#189](https://github.com/Anandb71/arbor/pull/189) — Exclude vendor assets and compute hotspot centrality.
