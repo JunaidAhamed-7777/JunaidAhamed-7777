@@ -89,7 +89,7 @@
 
 </details>
 
-## Open source
+# Open source
 
 Merged pull requests.
 
@@ -103,7 +103,7 @@ Merged pull requests.
 - [#190](https://github.com/Anandb71/arbor/pull/190) — Fix the PageRank closed-cycle rank sink and balance score distribution.
 - [#191](https://github.com/Anandb71/arbor/pull/191) — Emit class inheritance edges and reach inherited methods.
 
-## Research
+# Research
 
 **[Ranking Pages for Content Refresh ↗︎](https://junaidahamed-7777.github.io/flyrank-machine-learning/)**<br>Leakage audit and grouped validation for content-refresh ranking.
 
