@@ -93,7 +93,7 @@
 
 Merged pull requests.
 
-**[pydantic-settings](https://github.com/pydantic/pydantic-settings)**
+**[pydantic](https://github.com/pydantic/pydantic-settings)**
 
 - [#1034](https://github.com/pydantic/pydantic-settings/pull/1034) — Expand home paths when checking TOML table headers.
 
