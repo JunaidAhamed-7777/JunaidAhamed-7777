@@ -98,6 +98,7 @@ Merged pull requests.
 - [#1034](https://github.com/pydantic/pydantic-settings/pull/1034) — Expand home paths when checking TOML table headers.
 
 **[lilconfig](https://github.com/antonk52/lilconfig)**
+
 - [#66](https://github.com/antonk52/lilconfig/pull/66) — Fix: strip UTF-8 BOM before parsing JSON configs.
 
 **[Arbor](https://github.com/Anandb71/arbor)**
@@ -116,12 +117,12 @@ Merged pull requests.
 
 ---
 
-<a href="https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw">
-  <img src="assets/spotify.svg" width="252" height="44" alt="↗︎">
-</a>
-
 <p>
+  <a href="https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw">
+    <img src="assets/spotify.svg" width="72" height="44" alt="My Spotify playlist">
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:junuhammad2@gmail.com">
-    <img src="assets/gmail.svg" width="360" alt="">
+    <img src="assets/gmail.svg" width="72" height="44" alt="Email junuhammad2@gmail.com">
   </a>
 </p>

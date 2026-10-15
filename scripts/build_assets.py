@@ -85,12 +85,11 @@ def hero(mobile=False):
 
 
 def spotify():
-    body = '<style>text{fill:#576050}.external{stroke:#576050}@media(prefers-color-scheme:dark){text{fill:#a4a7a0}.external{stroke:#a4a7a0}}</style>'
+    body = '<style>.external{stroke:#576050}@media(prefers-color-scheme:dark){.external{stroke:#a4a7a0}}</style>'
     body += circle(20, 22, 14, "#1db954")
     body += path("M11 18q9-5 19 1M12 23q8-4 16 1M14 28q6-3 12 0", DARK, 2)
-    body += text("My Spotify playlist", 46, 28, 18, "#a4a7a0", family="sans")
-    body += path("M227 28 237 18M227 18h10v10", "#a4a7a0", 1.5, extra='class="external"')
-    save("spotify", 252, 44, "My Spotify playlist", body, "none")
+    body += path("M50 27 60 17M50 17h10v10", MUTED, 1.5, extra='class="external"')
+    save("spotify", 72, 44, "My Spotify playlist", body, "none")
 
 
 def portfolio(mobile=False):
@@ -107,16 +106,12 @@ def portfolio(mobile=False):
 
 
 def gmail():
-    body = rect(1, 1, 358, 74, "#161b17", "#53614d", 8)
-    # Small Gmail envelope mark, with a large readable destination beside it.
-    body += path('M20 48V27l17 13 17-13v21', "#e8e9e3", 5)
-    body += path('M20 48V27', "#4285f4", 5)
-    body += path('M54 27V48', "#34a853", 5)
-    body += path('M20 27 37 40 54 27', "#ea4335", 5)
-    body += text("Gmail", 76, 30, 15, "#a4b09f", family="sans")
-    body += text("junuhammad2@gmail.com", 76, 54, 19, INK, family="sans")
-    body += path('M330 27l9-9m-9 0h9v9', GREEN, 1.5)
-    save("gmail", 360, 76, "Email junuhammad2@gmail.com", body, "none",
+    body = '<style>.external{stroke:#576050}@media(prefers-color-scheme:dark){.external{stroke:#a4a7a0}}</style>'
+    body += path('M6 31V13', "#4285f4", 4)
+    body += path('M34 13V31', "#34a853", 4)
+    body += path('M6 13 20 24 34 13', "#ea4335", 4)
+    body += path('M50 27 60 17M50 17h10v10', MUTED, 1.5, extra='class="external"')
+    save("gmail", 72, 44, "Email junuhammad2@gmail.com", body, "none",
          "Gmail contact button. Opens a new email addressed to junuhammad2@gmail.com.")
 
 
