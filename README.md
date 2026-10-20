@@ -105,7 +105,7 @@ Merged pull requests.
 
 - [#189](https://github.com/Anandb71/arbor/pull/189) — Exclude vendor assets and compute hotspot centrality.
 - [#190](https://github.com/Anandb71/arbor/pull/190) — Fix the PageRank closed-cycle rank sink and balance score distribution.
-- [#191](https://github.com/Anandb71/arbor/pull/191) — Emit class inheritance edges and reach inherited methods. **(Indexed by [XERJ.ai](https://hub.xerj.org/contributors/JunaidAhamed-7777))**
+- [#191](https://github.com/Anandb71/arbor/pull/191) — Emit class inheritance edges and reach inherited methods. [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JunaidAhamed-7777/badge.svg)](https://hub.xerj.org/contributors/JunaidAhamed-7777)
 
 # Research
 
