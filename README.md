@@ -36,7 +36,7 @@
         </picture>
       </a>
       <h3>DrainTracer</h3>
-      <p>Windows process monitoring and resource-leak detection.</p>
+      <p>pip install draintracer</p>
       <p><sub>Python · psutil · Rich</sub></p>
       <a href="https://github.com/JunaidAhamed-7777/DrainTracer">Code</a>
     </td>
