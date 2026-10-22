@@ -30,10 +30,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/JunaidAhamed-7777/DrainTracer">
-        <picture>
-          <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-draintracer-static.svg">
-          <img src="assets/project-draintracer.svg" width="100%" alt="DrainTracer: layered process-memory plates with a moving leak trace.">
-        </picture>
+        <img src="assets/project-draintracer.svg" width="100%" alt="DrainTracer official branding.">
       </a>
       <h3>DrainTracer</h3>
       <p>pip install draintracer</p>
@@ -41,33 +38,35 @@
       <a href="https://github.com/JunaidAhamed-7777/DrainTracer">Code</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/JunaidAhamed-7777/Emotion_detector_music_rcmdr">
-        <img src="assets/project-emotion-detector.svg" width="100%" alt="Emotion Detector: a faceted face and facial landmarks connected to a vinyl record.">
+      <a href="https://modif.in">
+        <img src="assets/project-modif.svg" width="100%" alt="Modif.in official logo.">
       </a>
-      <h3>Emotion Detector</h3>
-      <p>Webcam emotion detection that suggests music.</p>
-      <p><sub>Python · MediaPipe · Keras</sub></p>
-      <a href="https://github.com/JunaidAhamed-7777/Emotion_detector_music_rcmdr">Code</a>
+      <h3>Modif.in</h3>
+      <p>Free browser tools for text, images, and documents.</p>
+      <p><sub>React · JavaScript · Vite</sub></p>
+      <a href="https://github.com/Akshay0047/Modif.in">Code</a>
+      &nbsp; · &nbsp;
+      <a href="https://modif.in">Demo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/JunaidAhamed-7777/Heimdall">
-        <img src="assets/project-heimdall.svg" width="100%" alt="Heimdall: layered planner pages, habit markers, and a task tile.">
+      <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws">
+        <picture>
+          <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-axiom-static.png">
+          <img src="assets/project-axiom.gif" width="100%" alt="Axiom: Break the laws — captured gameplay.">
+        </picture>
       </a>
-      <h3>Heimdall</h3>
-      <p>Tasks, habits, and Google Workspace in one app.</p>
-      <p><sub>TypeScript · Firebase</sub></p>
-      <a href="https://github.com/JunaidAhamed-7777/Heimdall">Code</a>
+      <h3>Axiom: Break the laws</h3>
+      <p>A pencil-and-ink FPS where you rewrite the laws of combat.</p>
+      <p><sub>Unreal Engine · C++ · Python</sub></p>
+      <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws">Code</a>
       &nbsp; · &nbsp;
-      <a href="https://heimdall-productivity-companion-1091650404271.asia-southeast1.run.app">Demo</a>
+      <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws/blob/main/Evidence/Demo/AXIOM_final_native_live_demo.mp4">Gameplay</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/JunaidAhamed-7777/Type.Shift">
-        <picture>
-          <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-typeshift-static.svg">
-          <img src="assets/project-typeshift.svg" width="100%" alt="TypeShift typing speed checker: a WPM scale and animated keyboard keycaps.">
-        </picture>
+        <img src="assets/project-typeshift.svg" width="100%" alt="TypeShift official logo and branding.">
       </a>
       <h3>TypeShift</h3>
       <p>A typing speed checker with passages from books, science, and code.</p>

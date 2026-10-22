@@ -1,0 +1,23 @@
+{
+  "draintracer-wordmark-dark.png": {
+    "repository": "https://github.com/JunaidAhamed-7777/DrainTracer",
+    "commit": "73df0be9ad3b2b110fc7cc52f34283d4d77a414c",
+    "path": "docs/assets/brand/wordmark-dark.png",
+    "git_blob": "1ae5c997b84c00b134fa7840ea0209c703354d4e",
+    "treatment": "Original bytes; SVG viewport omits unused right background only."
+  },
+  "modif-logo.png": {
+    "repository": "https://github.com/Akshay0047/Modif.in",
+    "commit": "bb08af27c62c29f77f6a77a9742c1d8826bd7828",
+    "path": "src/logo.png",
+    "git_blob": "f5f79426e71a94b5cf2192d69ff1579bdebc0f86",
+    "treatment": "Original bytes, scaled proportionally on the brand's black background."
+  },
+  "typeshift-logo.png": {
+    "repository": "https://github.com/JunaidAhamed-7777/Type.Shift",
+    "commit": "80679e4a9999477e968bbbcd8ab9909bf0df3bea",
+    "path": "public/logo.png",
+    "git_blob": "1e3497ef40e5b09ef9ace41fed310080b5f7fa85",
+    "treatment": "Original bytes, scaled proportionally on the original dark background."
+  }
+}

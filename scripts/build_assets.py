@@ -118,7 +118,7 @@ def gmail():
 def static_variants():
     # Let the README's <picture> choose an explicitly static file. This also
     # covers browsers that don't propagate reduced-motion into SVG images.
-    for name in ("portfolio", "portfolio-mobile", "project-draintracer", "project-typeshift"):
+    for name in ("portfolio", "portfolio-mobile"):
         source = (OUT / f"{name}.svg").read_text(encoding="utf-8")
         source = source.replace('</svg>', '<style>*{animation:none!important;transition:none!important}</style></svg>')
         (OUT / f"{name}-static.svg").write_text(source, encoding="utf-8")
@@ -129,10 +129,10 @@ if __name__ == "__main__":
 
     hero()
     hero(mobile=True)
-    build_project_art(globals())
+    build_project_art()
     spotify()
     portfolio()
     portfolio(mobile=True)
     gmail()
     static_variants()
-    print("Built 14 profile assets, including static motion fallbacks.")
+    print("Built profile SVGs with official project branding; Axiom footage is maintained separately.")
