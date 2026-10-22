@@ -79,10 +79,19 @@
 <details>
 <summary>Other projects</summary>
 
-- **[Blackwall](https://github.com/JunaidAhamed-7777/Blackwall)** — Cryptographic approval workflows for infrastructure changes.
-- **[Crystal UI](https://github.com/JunaidAhamed-7777/CrystalUI_Vivaldi)** — A frosted-glass CSS theme for Vivaldi.
-- **[AirQuality Monitor](https://github.com/JunaidAhamed-7777/AirQuality-Humidity-PPM-Monitor-using-ESP32)** — ESP32 environmental monitoring with real-time alerts.
-- **[Futures Trading CLI](https://github.com/JunaidAhamed-7777/trading_bot)** — Order validation, execution, and logging for the Binance USDT Futures Testnet.
+- **[Ghostwalk](https://github.com/JunaidAhamed-7777/ghostwalk)** — A first-place NexAI hackathon project that turns real orders into a playable 3D warehouse, using simulated annealing to reduce walking distance by 11.1% against a frequency-based baseline on held-out orders in simulation.
+- **[CargoMind](https://github.com/JunaidAhamed-7777/cargomind)** — A first-place hackathon prototype coordinating 23 Google ADK agents and 11 MCP tools for logistics planning, disruption response, and recovery from model and tool failures.
+- **[AI Content Breaker](https://github.com/rohithgreninja-afk/AI-Content-Breaker)** — An experimental AI-text detector built around a custom lexer and parser, 89 lexical and syntactic features, and a 300-tree ExtraTrees classifier trained from scratch with reproducible evaluation.
+- **[Groundhog CI](https://github.com/JunaidAhamed-7777/groundhog-ci)** — A searchable memory for recurring CI failures that groups JUnit reports and retrieves previously recorded fixes through local MiniLM inference, keeping the source evidence available for review.
+- **[Release Sieve](https://github.com/JunaidAhamed-7777/release-sieve)** — A release-review tool that compares commit metadata with release notes using local MiniLM inference, flagging possible omissions and breaking changes in reports linked to source evidence.
+- **[StockFlow](https://github.com/JunaidAhamed-7777/StockFlow)** — An inventory platform spanning customer, supplier, and admin workspaces, with PostgreSQL-backed stock and order management plus n8n automation for alerts, follow-ups, and inventory digests.
+- **[Blackwall](https://github.com/JunaidAhamed-7777/Blackwall)** — An infrastructure approval platform that combines multi-factor authentication, role-based access, two-person approval quorums, escalation, and rollback controls to make sensitive changes explicit and traceable.
+- **[Heimdall](https://github.com/JunaidAhamed-7777/Heimdall)** — A productivity companion with four specialized Gemini agents that extracts action items from Gmail, synchronizes Google Calendar, monitors Drive, and brings planning, habits, and weekly reports into one workspace.
+- **[ResQ](https://www.linkedin.com/in/junaidahamed7777/details/projects/)** — An ambulance dispatch backend connecting patient, driver, and admin workflows through automatic driver matching, live GPS tracking, real-time notifications, and encrypted personal data.
+- **[Crystal UI](https://github.com/JunaidAhamed-7777/CrystalUI_Vivaldi)** — An iOS-inspired redesign of Vivaldi's browser chrome, unifying frosted glass, translucent tabs, transparent side panels, and custom controls through CSS.
+- **[Emotion Detector](https://github.com/JunaidAhamed-7777/Emotion_detector_music_rcmdr)** — A computer vision music recommender that classifies expressions from live webcam landmarks and turns the detected emotion, preferred language, and artist into personalized song searches.
+- **[AirQuality Monitor](https://github.com/JunaidAhamed-7777/AirQuality-Humidity-PPM-Monitor-using-ESP32)** — An ESP32 environmental monitor combining temperature, humidity, and gas sensing with automatic baseline calibration, adjustable thresholds, and coordinated LCD, LED, and buzzer alerts.
+- **[Futures Trading CLI](https://github.com/JunaidAhamed-7777/trading_bot)** — A Python CLI for Binance USDT Futures Testnet that executes market and limit orders with strict input validation, structured execution logs, and explicit handling of network and exchange errors.
 
 </details>
 
