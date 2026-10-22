@@ -44,7 +44,6 @@
       <h3>Modif.in</h3>
       <p>Free browser tools for text, images, and documents.</p>
       <p><sub>React · JavaScript · Vite</sub></p>
-      &nbsp; · &nbsp;
       <a href="https://modif.in">Website</a>
     </td>
   </tr>
@@ -60,6 +59,7 @@
       <p>A pencil-and-ink FPS where you rewrite the laws of combat.</p>
       <p><sub>Unreal Engine · C++ · Python</sub></p>
       <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws">Code</a>
+      &nbsp; · &nbsp;
       <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws/blob/main/Evidence/Demo/AXIOM_final_native_live_demo.mp4">Gameplay</a>
     </td>
     <td width="50%" valign="top">
