@@ -107,6 +107,9 @@ Merged pull requests.
 
 - [#66](https://github.com/antonk52/lilconfig/pull/66) — Fix: strip UTF-8 BOM before parsing JSON configs.
 
+**[Python Validators](https://github.com/python-validators/validators)**
+- [151](https://github.com/python-validators/validators/pull/512) — Reject non-ASCII case equivalents in IBANs
+
 **[Arbor](https://github.com/Anandb71/arbor)**
 
 - [#189](https://github.com/Anandb71/arbor/pull/189) — Exclude vendor assets and compute hotspot centrality.
