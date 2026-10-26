@@ -103,6 +103,9 @@ Merged pull requests.
 
 - [#1034](https://github.com/pydantic/pydantic-settings/pull/1034) — Expand home paths when checking TOML table headers.
 
+**[boltons](https://github.com/mahmoud/boltons)**
+- [#580](https://github.com/mahmoud/boltons/pull/580) — Fix cache equality with dictionaries and unrelated objects.
+
 **[lilconfig](https://github.com/antonk52/lilconfig)** `(Used in 16 million repositories)`
 
 - [#66](https://github.com/antonk52/lilconfig/pull/66) — Fix: strip UTF-8 BOM before parsing JSON configs.
