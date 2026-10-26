@@ -63,15 +63,16 @@
       <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws/blob/main/Evidence/Demo/AXIOM_final_native_live_demo.mp4">Gameplay</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/JunaidAhamed-7777/Type.Shift">
-        <img src="assets/project-typeshift.svg" width="100%" alt="TypeShift official logo and branding.">
+      <a href="https://github.com/JunaidAhamed-7777/sign-saber">
+        <picture>
+          <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/JunaidAhamed-7777/sign-saber/main/docs/media/gameplay.png">
+          <img src="https://raw.githubusercontent.com/JunaidAhamed-7777/sign-saber/main/docs/media/hero.gif" width="100%" alt="Sign Saber gameplay with a synthetic performer controlling a holographic avatar in a neon rhythm arena.">
+        </picture>
       </a>
-      <h3>TypeShift</h3>
-      <p>A typing speed checker with passages from books, science, and code.</p>
-      <p><sub>React · JavaScript</sub></p>
-      <a href="https://github.com/JunaidAhamed-7777/Type.Shift">Code</a>
-      &nbsp; · &nbsp;
-      <a href="https://typeshiftt.vercel.app">Demo</a>
+      <h3>Sign Saber</h3>
+      <p>A browser rhythm-combat game with a holographic avatar, custom-audio beatmaps, and experimental webcam gesture tracking.</p>
+      <p><sub>TypeScript · Three.js · MediaPipe</sub></p>
+      <a href="https://github.com/JunaidAhamed-7777/sign-saber">Code</a>
     </td>
   </tr>
 </table>
@@ -79,6 +80,7 @@
 <details>
 <summary>Other projects</summary>
 
+- **[TypeShift](https://github.com/JunaidAhamed-7777/Type.Shift)** — A typing speed checker with real-time WPM and accuracy tracking, difficulty-based challenges, and passages from books, science, and code. [Demo](https://typeshiftt.vercel.app).
 - **[Ghostwalk](https://github.com/JunaidAhamed-7777/ghostwalk)** — A first-place NexAI hackathon project that turns real orders into a playable 3D warehouse, using simulated annealing to reduce walking distance by 11.1% against a frequency-based baseline on held-out orders in simulation.
 - **[CargoMind](https://github.com/JunaidAhamed-7777/cargomind)** — A first-place hackathon prototype coordinating 23 Google ADK agents and 11 MCP tools for logistics planning, disruption response, and recovery from model and tool failures.
 - **[AI Content Breaker](https://github.com/rohithgreninja-afk/AI-Content-Breaker)** — An experimental AI-text detector built around a custom lexer and parser, 89 lexical and syntactic features, and a 300-tree ExtraTrees classifier trained from scratch with reproducible evaluation.
