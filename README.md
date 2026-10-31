@@ -57,7 +57,7 @@
       <p><sub>TypeScript · Three.js · Blender</sub></p>
       <a href="https://github.com/JunaidAhamed-7777/outrun-your-soul">Code</a>
       &nbsp; · &nbsp;
-      <a href="https://outrun-your-soul.vercel.app">Demo</a>
+      <a href="https://outrun-your-soul.vercel.app">Play Now!</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws">
