@@ -16,14 +16,6 @@
   </picture>
 </a>
 
-<p>
-  <a href="#selected-work">Selected work</a>
-  &nbsp; / &nbsp;
-  <a href="#open-source">Open source</a>
-  &nbsp; / &nbsp;
-  <a href="#research">Research</a>
-</p>
-
 ## Selected work
 
 <table>
