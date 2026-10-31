@@ -77,7 +77,7 @@
 </table>
 
 <details>
-<summary>Other projects</summary>
+<summary>𝐎𝐓𝐇𝐄𝐑 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒🥴🥴🥴</summary>
 
 - **[Sign Saber](https://github.com/JunaidAhamed-7777/sign-saber)** — A browser rhythm-combat game with a holographic avatar, custom-audio beatmaps, and experimental webcam gesture tracking.
 - **[TypeShift](https://github.com/JunaidAhamed-7777/Type.Shift)** — A typing speed checker with real-time WPM and accuracy tracking, difficulty-based challenges, and passages from books, science, and code. [Demo](https://typeshiftt.vercel.app).
