@@ -120,14 +120,6 @@ Merged pull requests.
 - A lot  
 - [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JunaidAhamed-7777/badge.svg)](https://hub.xerj.org/contributors/JunaidAhamed-7777)
 
-# Research
-
-**[Ranking Pages for Content Refresh ↗︎](https://junaidahamed-7777.github.io/flyrank-machine-learning/)**<br>Leakage audit and grouped validation for content-refresh ranking.
-
-## Stack
-
-**Languages** &nbsp; Python · Java · C · C++ · JavaScript · TypeScript<br>**Web** &nbsp; React · Node.js<br>**Data** &nbsp; PostgreSQL · MySQL · Redis
-
 ---
 
 <p>
