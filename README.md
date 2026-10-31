@@ -117,8 +117,8 @@ Merged pull requests.
 
 **[Arbor](https://github.com/Anandb71/arbor)**
 
-A lot  
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JunaidAhamed-7777/badge.svg)](https://hub.xerj.org/contributors/JunaidAhamed-7777)
+- A lot  
+- [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JunaidAhamed-7777/badge.svg)](https://hub.xerj.org/contributors/JunaidAhamed-7777)
 
 # Research
 
