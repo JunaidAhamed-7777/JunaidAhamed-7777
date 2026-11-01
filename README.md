@@ -97,6 +97,7 @@
 ---
 
 <p>
+  
   <a href="https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw">
     <img src="assets/spotify.svg" width="72" height="44" alt="My Spotify playlist">
   </a>
@@ -105,3 +106,5 @@
     <img src="assets/gmail.svg" width="72" height="44" alt="Email junuhammad2@gmail.com">
   </a>
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2y4xiwj8c87krpkasvtc54nk6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
