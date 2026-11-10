@@ -95,3 +95,13 @@
 <!-- [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/JunaidAhamed-7777/badge.svg)](https://hub.xerj.org/contributors/JunaidAhamed-7777) -->
 
 ---
+<p>
+  
+  <a href="https://open.spotify.com/playlist/2x67eFjtZh3MKbHBo8ZHbw">
+    <img src="assets/spotify.svg" width="72" height="44" alt="My Spotify playlist">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:junuhammad2@gmail.com">
+    <img src="assets/gmail.svg" width="72" height="44" alt="Email junuhammad2@gmail.com">
+  </a>
+</p>
