@@ -52,24 +52,27 @@
       <a href="https://outrun-your-soul.vercel.app">Play Now!</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws">
-        <picture>
-          <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-axiom-static.png">
-          <img src="assets/project-axiom.gif" width="100%" alt="Axiom: Break the laws — captured gameplay.">
-        </picture>
+      <a href="https://chowk-seven.vercel.app/">
+        <img src="https://raw.githubusercontent.com/JunaidAhamed-7777/chowk/main/assets/demo/corridor.webp" width="100%" alt="Chowk's live 3D traffic corridor at night.">
       </a>
-      <h3>Axiom: Break the laws</h3>
-      <p>A pencil-and-ink FPS where you rewrite the laws of combat.</p>
-      <p><sub>Unreal Engine · C++ · Python</sub></p>
-      <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws">Code</a>
+      <h3>Chowk</h3>
+      <p>Traffic signals that learn from the way Indian streets move. Compare controllers live in a 3D city, stall a bus or send an ambulance, and replay the benchmark in your browser.</p>
+      <p><sub>November 2026 · INNOVEX · TypeScript · Three.js · Evolution strategies</sub></p>
+      <a href="https://github.com/JunaidAhamed-7777/chowk">Code</a>
       &nbsp; · &nbsp;
-      <a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws/blob/main/Evidence/Demo/AXIOM_final_native_live_demo.mp4">Gameplay</a>
+      <a href="https://chowk-seven.vercel.app/">Live Demo</a>
+      &nbsp; · &nbsp;
+      <a href="https://chowk-seven.vercel.app/results">Benchmark</a>
     </td>
   </tr>
 </table>
 
 <details>
 <summary>𝐎𝐓𝐇𝐄𝐑 𝐏𝐑𝐎𝐉𝐄𝐂𝐓𝐒🥴🥴🥴</summary>
+
+- **[Patchwork](https://github.com/JunaidAhamed-7777/patchwork)** · November 2026 — A correction desk for Buffer drafts. Change a date or venue once, review the exact words that will change in each draft, and send back only the edits you approve. Patchwork checks the saved text and issues a receipt per draft. Built for Buffer Commit 2026. [Try the sample workspace](https://patchwork-workbench.vercel.app/) · [Showcase](https://patchwork-showcase.vercel.app/).<br><a href="https://patchwork-showcase.vercel.app/"><img src="https://raw.githubusercontent.com/JunaidAhamed-7777/patchwork/main/docs/evidence/demos/review-the-edit.gif" width="240" alt="Patchwork reviewing a venue change across three Buffer drafts."></a>
+- **[Chowk](https://github.com/JunaidAhamed-7777/chowk)** · November 2026 — A learned signal controller for lane-free Indian traffic. Across 20 held-out simulation seeds, it reduced delay per person by 4.5% versus Webster fixed timing. The browser replays published runs and checks their final state hashes. [Live 3D demo](https://chowk-seven.vercel.app/) · [Reproduce the benchmark](https://chowk-seven.vercel.app/results).<br><a href="https://chowk-seven.vercel.app/results"><img src="https://raw.githubusercontent.com/JunaidAhamed-7777/chowk/main/assets/demo/results.webp" width="240" alt="Chowk’s benchmark results and exact browser replay."></a>
+- **[Axiom: Break the laws](https://github.com/JunaidAhamed-7777/axiom-steal-the-laws)** · October 2026 — A pencil-and-ink Unreal FPS where you steal enemy abilities and use their bullets as building material. Describe a curve, staircase, or bridge and the game turns the idea into solid footing you can jump onto mid-fight. [Gameplay](https://github.com/JunaidAhamed-7777/axiom-steal-the-laws/blob/main/Evidence/Demo/AXIOM_final_native_live_demo.mp4).<br><a href="https://github.com/JunaidAhamed-7777/axiom-steal-the-laws/blob/main/Evidence/Demo/AXIOM_final_native_live_demo.mp4"><img src="assets/project-axiom-static.png" width="240" alt="Axiom's pencil-and-ink gameplay."></a>
 
 - **[Sign Saber](https://github.com/JunaidAhamed-7777/sign-saber)** — Browser rhythm combat with a 43-bone holographic avatar, custom-audio beatmap generation, slicing and beam mechanics, and on-device music analysis with optional webcam tracking.
 - **[TypeShift](https://github.com/JunaidAhamed-7777/Type.Shift)** — A typing-performance platform combining live WPM and accuracy scoring, four difficulty levels, timed challenges, and nonrepeating passages drawn from literature, scientific writing, and programming. [Demo](https://typeshiftt.vercel.app).
